@@ -35,8 +35,14 @@ Models used in this project include:
 
 Of the three, SARIMAX was the best, it had the least margin of error when comparing actual data and the predicted results.
 
-## 
+## Recommendations
+• To predict power consumption, we have a number of models that can be applied for this time series data. We evaluated 3 models namely;
 
+•• Moving Average Model
+•• Long Short-Term Memory
+•• Seasonal Autoregressive Integrated Moving Average(SARIMA)
+
+• All the models did well when applied on actual data gave very good results. However, the best model turned out to be SARIMA since it had the least margin of error when comparing actual data and the predicted results.
 
 
 
