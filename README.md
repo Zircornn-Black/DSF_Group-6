@@ -33,5 +33,8 @@ Models used in this project include:
 * LTSM Model
 * SARIMAX
 
+Of the three, SARIMAX was the best, it had the least margin of error when comparing actual data and the predicted results.
+
+
 
 
