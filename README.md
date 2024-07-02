@@ -13,7 +13,7 @@ Analyze trends, seasonality, and patterns in electricity-related variables
 * Identify Factors Influencing Electricity Consumption:
 Analyze impact of time of day, day of week, seasons, and appliance usage
 
-*Develop Predictive Models:
+* Develop Predictive Models:
 Forecast future electricity consumption patterns
 
 * Optimize Energy Efficiency:
