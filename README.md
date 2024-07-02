@@ -25,7 +25,13 @@ Household energy management
 Utility company insights
 Energy policy and planning
 Research and development
-## 
+
+## Modeling 
+Models used in this project include:
+
+• Moving Average 
+• LTSM Model
+* SARIMAX
 
 
 
