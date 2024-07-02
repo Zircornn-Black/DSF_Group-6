@@ -3,7 +3,7 @@
 ## Overview 
 
 Using the Time Series Model, This project analyses and forecasts household electric power consumption. The primary goal is to understand consumption patterns and predict future usage. We used various Time series Techniques to achieve this.
-
+The data (individual+household+electric+power+consumption.zip) contains 2,075,259 measurements gathered in a house located in Sceaux, France (7km from Paris) between December 2006 and November 2010 (47 months).
 
 ## Business Understanding
 
