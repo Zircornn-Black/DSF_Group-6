@@ -29,8 +29,8 @@ Research and development
 ## Modeling 
 Models used in this project include:
 
-• Moving Average 
-• LTSM Model
+* Moving Average 
+* LTSM Model
 * SARIMAX
 
 
