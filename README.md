@@ -2,7 +2,7 @@
 
 ## Overview 
 
-This project analyses and forecast household electric power consumption using the Series Model. The primary goal is to understand consumption patterns and predict future usage. We used various Time series Techniques to achieve this.
+Using the Time Series Model, This project analyses and forecasts household electric power consumption. The primary goal is to understand consumption patterns and predict future usage. We used various Time series Techniques to achieve this.
 
 
 ## Business Understanding
@@ -26,4 +26,5 @@ Energy policy and planning
 Research and development
 ## 
 
+## Data 
 
